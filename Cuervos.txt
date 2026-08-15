@@ -2,7 +2,8 @@ Equipo de Desarrollo
 
 Integrantes:
 1. Johan
-2. David
+2. David- Backend
+
 
 
 Proyecto:

@@ -2,10 +2,10 @@ Equipo de Desarrollo
 
 Integrantes:
 
-1. Johan Tarazona
+1. Stiven
 2. David
 
 Proyecto:
 Aplicación de perfiles del equipo
 
-Versión 1.0
+Versión 2.0

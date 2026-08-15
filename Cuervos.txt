@@ -1,11 +1,6 @@
 Equipo de Desarrollo
 
 Integrantes:
-<<<<<<< HEAD
-=======
-1. Johan Tarazona
-2. Pendiente
->>>>>>> b2f5e7f18cf8815d470d76b85625336582ab24ba
 
 1. Johan Tarazona
 2. David

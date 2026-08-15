@@ -1,9 +1,9 @@
 Equipo de Desarrollo
 
 Integrantes:
-1. Johan Tarazona
-2. Pendiente
 
+1. Johan Tarazona
+2. David
 
 Proyecto:
 Aplicación de perfiles del equipo
